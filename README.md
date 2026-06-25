@@ -1,1 +1,9 @@
-![GitHub metrics](https://metrics.lecoq.io/jjediny?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=true&base.hireable=false&base.skip=false&repositories.forks=true&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.categories=markup%2Cprogramming&languages.recent.categories=markup%2Cprogramming&languages.recent.load=300&languages.recent.days=14&stargazers=1&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stars=1&stars.limit=4&people=1&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2Cfollowing&notable=1&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&traffic=1&gists=1&config.timezone=America%2FNew_York)
+<p align="center">
+  <img src="https://metrics.lecoq.io/jjediny?template=classic&base=header%2Cactivity%2Crepositories%2Cmetadata&base.indepth=true&repositories.forks=true&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.categories=programming%2Cmarkup&notable=1&notable.from=organization&notable.types=commit&traffic=1&gists=1&config.timezone=America%2FNew_York" alt="GitHub metrics for JJediny" width="800" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/jjediny?tab=repositories"><strong>Repositories</strong></a> ·
+  <a href="https://github.com/jjediny?tab=activity"><strong>Activity</strong></a> ·
+  <a href="https://github.com/jjediny?tab=followers"><strong>Followers</strong></a>
+</p>
